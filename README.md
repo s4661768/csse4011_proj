@@ -5,7 +5,7 @@ Matthew Banks   | Bachelor of Electrical Engineering with Honours |
 
 Ivan Sabbagh    | Master of Electrical Engineering                | 
 
-Connor Bilzon   | Bachelor of Electrical Engineering with Honours, Majoring in Computer Engineering |
+Connor Bilzon   | Bachelor of Electrical Engineering with Honours, Major in Computer Engineering |
 
 Nathanael Mandy | Bachelor of Electrical Engineering with Honours | https://github.com/s4661768
 
